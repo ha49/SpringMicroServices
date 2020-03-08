@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="875a0737-ac01-4341-bf1b-9cdafb28f4fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/SetupDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/SetupDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guest-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/ReservationsModelAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/ReservationsModelAssembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/SetupDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/SetupDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-reservation-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationWebService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/test/java/com/example/roomreservationservice/RoomReservationServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/test/java/com/example/roomreservationservice/ReservationServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/RoomRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/RoomRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/SetupDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/SetupDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/room-services/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YhklzBZChnbemqzoLUZwpSf8UC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CODES/MARTIN/SPRING DEMO UPDATED" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\husam\Desktop\LAB\room-services\src\main\resources" />
+      <recent name="C:\Users\husam\Desktop\LAB\reservation-services\src\main\resources" />
+      <recent name="C:\Users\husam\Desktop\LAB\guest-services\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GuestServicesApplication">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="LAB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="LAB" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuestServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="guest-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guestservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.guestservices.GuestServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reservation-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reservationservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.reservationservices.ReservationServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomReservationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="room-reservation-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.roomreservationservice.RoomReservationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="room-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.roomservices.RoomServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="LAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.RoomServicesApplication" />
+      <item itemvalue="Spring Boot.RoomReservationServiceApplication" />
+      <item itemvalue="Spring Boot.GuestServicesApplication" />
+      <item itemvalue="Spring Boot.ReservationServicesApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReservationServicesApplication" />
+        <item itemvalue="Spring Boot.GuestServicesApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.012303486" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="875a0737-ac01-4341-bf1b-9cdafb28f4fc" name="Default Changelist" comment="" />
+      <created>1583402368871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583402368871</updated>
+      <workItem from="1583402370763" duration="5030000" />
+      <workItem from="1583416754166" duration="20000" />
+      <workItem from="1583416827822" duration="40000" />
+      <workItem from="1583416903016" duration="2806000" />
+      <workItem from="1583419780282" duration="732000" />
+      <workItem from="1583420578844" duration="17805000" />
+      <workItem from="1583570339252" duration="30770000" />
+      <workItem from="1583661725111" duration="12447000" />
+      <workItem from="1583675933615" duration="742000" />
+    </task>
+    <task id="LOCAL−00001" summary="Second Stage">
+      <created>1583619695033</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1583619695033</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Second Stage">
+      <created>1583619723108</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1583619723108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Stage" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="56" width="814" height="728" key="#Intentions" timestamp="1583427358687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="688" y="56" width="814" height="728" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1583427358687" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1583416979641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583416979641" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583675191700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583675191700" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1583673548025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583673548025" />
+    <state x="582" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583402550862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1583402550862" />
+    <state x="454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583671191073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1583671191073" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1583672365413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583672365413" />
+    <state x="358" y="7" key="CommitChangelistDialog2" timestamp="1583619720884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="358" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583619720884" />
+    <state x="549" y="106" key="FileChooserDialogImpl" timestamp="1583449176944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583449176944" />
+    <state width="1445" height="185" key="GridCell.Tab.0.bottom" timestamp="1583679734652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state width="1445" height="185" key="GridCell.Tab.0.center" timestamp="1583679734652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state width="1445" height="185" key="GridCell.Tab.0.left" timestamp="1583679734652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state width="1445" height="185" key="GridCell.Tab.0.right" timestamp="1583679734652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state width="1445" height="185" key="GridCell.Tab.1.bottom" timestamp="1583679734668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583679734668" />
+    <state width="1445" height="185" key="GridCell.Tab.1.center" timestamp="1583679734652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state width="1445" height="185" key="GridCell.Tab.1.left" timestamp="1583679734652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state width="1445" height="185" key="GridCell.Tab.1.right" timestamp="1583679734652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1445" height="185" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state x="590" y="51" key="Maven.ArtifactSearchDialog" timestamp="1583670751170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="51" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1583670751170" />
+    <state x="439" y="111" key="NewModule_or_Project.wizard" timestamp="1583402690577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1583402690577" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1583447035596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583447035596" />
+    <state x="209" y="114" key="new project wizard" timestamp="1583665923526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583665923526" />
+  </component>
+</project>
