@@ -6,49 +6,51 @@ import lombok.RequiredArgsConstructor;
 
 import javax.persistence.*;
 
-//@Data
+@Data
 @Entity
-//@NoArgsConstructor(force = true)
+@NoArgsConstructor
 //@RequiredArgsConstructor
 public class Guest {
   @Id
-  @GeneratedValue(strategy = GenerationType.AUTO)
-  private long id;
+  @GeneratedValue
+//          (strategy = GenerationType.AUTO)
+  private Long id;
   private  String firstName;
   private  String lastName;
 
-  public Guest() {
-
-  }
-
-  public  Guest(String firstName, String lastName){
+//  public Guest() {
+//
+//  }
+//
+  public  Guest(Long id, String firstName, String lastName){
+    this.id=id;
     this.firstName=firstName;
     this.lastName=lastName;
   }
 
-  public long getId() {
-    return id;
-  }
-
-  public void setId(long id) {
-    this.id = id;
-  }
-
-  public String getFirstName() {
-    return firstName;
-  }
-
-  public void setFirstName(String firstName) {
-    this.firstName = firstName;
-  }
-
-  public String getLastName() {
-    return lastName;
-  }
-
-  public void setLastName(String lastName) {
-    this.lastName = lastName;
-  }
+//  public long getId() {
+//    return id;
+//  }
+//
+//  public void setId(long id) {
+//    this.id = id;
+//  }
+//
+//  public String getFirstName() {
+//    return firstName;
+//  }
+//
+//  public void setFirstName(String firstName) {
+//    this.firstName = firstName;
+//  }
+//
+//  public String getLastName() {
+//    return lastName;
+//  }
+//
+//  public void setLastName(String lastName) {
+//    this.lastName = lastName;
+//  }
 
   //  private String phoneNumber;
 //  private String emailAddress;

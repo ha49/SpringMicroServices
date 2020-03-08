@@ -2,45 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="875a0737-ac01-4341-bf1b-9cdafb28f4fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guest-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/GuestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/GuestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/GuestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/GuestRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/SetupDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/example/guestservices/SetupDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guest-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/guest-services/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/ReservationsModelAssembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/ReservationsModelAssembler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/SetupDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/java/com/example/reservationservices/SetupDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservation-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reservation-services/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-reservation-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/java/com/example/roomreservationservice/RoomReservationWebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-reservation-service/src/test/java/com/example/roomreservationservice/RoomReservationServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-reservation-service/src/test/java/com/example/roomreservationservice/ReservationServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/RoomRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/RoomRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/SetupDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/room-services/src/main/java/com/example/roomservices/SetupDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/room-services/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +20,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -81,6 +50,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CODES/MARTIN/SPRING DEMO UPDATED" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -89,6 +60,12 @@
     <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.guestservices" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\husam\Desktop\LAB\room-services\src\main\resources" />
       <recent name="C:\Users\husam\Desktop\LAB\reservation-services\src\main\resources" />
@@ -102,7 +79,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GuestServicesApplication">
+  <component name="RunManager" selected="JUnit.GuestControllerTest.replaceGuest">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="LAB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +99,69 @@
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
       <method v="2" />
+    </configuration>
+    <configuration name="GuestControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guest-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guestservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.guestservices" />
+      <option name="MAIN_CLASS_NAME" value="com.example.guestservices.GuestControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuestControllerTest.patchGuestAllValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guest-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guestservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.guestservices" />
+      <option name="MAIN_CLASS_NAME" value="com.example.guestservices.GuestControllerTest" />
+      <option name="METHOD_NAME" value="patchGuestAllValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuestControllerTest.patchguest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guest-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guestservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.guestservices" />
+      <option name="MAIN_CLASS_NAME" value="com.example.guestservices.GuestControllerTest" />
+      <option name="METHOD_NAME" value="patchguest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuestControllerTest.replaceGuest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guest-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guestservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.guestservices" />
+      <option name="MAIN_CLASS_NAME" value="com.example.guestservices.GuestControllerTest" />
+      <option name="METHOD_NAME" value="replaceGuest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="LAB" />
@@ -231,19 +271,6 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="config-server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.configserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
@@ -260,19 +287,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.guestservices.GuestServicesApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReservationServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="reservation-services" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.reservationservices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.reservationservices.ReservationServicesApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -338,18 +352,22 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JUnit.GuestControllerTest" />
+      <item itemvalue="JUnit.GuestControllerTest.patchguest" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.RoomServicesApplication" />
       <item itemvalue="Spring Boot.RoomReservationServiceApplication" />
       <item itemvalue="Spring Boot.GuestServicesApplication" />
-      <item itemvalue="Spring Boot.ReservationServicesApplication" />
-      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="JUnit.GuestControllerTest.patchGuestAllValues" />
+      <item itemvalue="JUnit.GuestControllerTest.replaceGuest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ReservationServicesApplication" />
+        <item itemvalue="JUnit.GuestControllerTest.replaceGuest" />
         <item itemvalue="Spring Boot.GuestServicesApplication" />
-        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="JUnit.GuestControllerTest" />
+        <item itemvalue="JUnit.GuestControllerTest.patchGuestAllValues" />
+        <item itemvalue="JUnit.GuestControllerTest.patchguest" />
       </list>
     </recent_temporary>
   </component>
@@ -398,6 +416,7 @@
       <workItem from="1583570339252" duration="30770000" />
       <workItem from="1583661725111" duration="12447000" />
       <workItem from="1583675933615" duration="742000" />
+      <workItem from="1583680778354" duration="11272000" />
     </task>
     <task id="LOCAL−00001" summary="Second Stage">
       <created>1583619695033</created>
@@ -430,10 +449,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583416979641" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583675191700">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583691362110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583675191700" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583691362110" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583692962861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1583692962861" />
     <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1583673548025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -458,38 +481,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583449176944" />
-    <state width="1445" height="185" key="GridCell.Tab.0.bottom" timestamp="1583679734652">
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom" timestamp="1583694056650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
-    <state width="1445" height="185" key="GridCell.Tab.0.center" timestamp="1583679734652">
+    <state width="1493" height="138" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583694056650" />
+    <state width="1493" height="138" key="GridCell.Tab.0.center" timestamp="1583694056650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
-    <state width="1445" height="185" key="GridCell.Tab.0.left" timestamp="1583679734652">
+    <state width="1493" height="138" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583694056650" />
+    <state width="1493" height="138" key="GridCell.Tab.0.left" timestamp="1583694056650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
-    <state width="1445" height="185" key="GridCell.Tab.0.right" timestamp="1583679734652">
+    <state width="1493" height="138" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583694056650" />
+    <state width="1493" height="138" key="GridCell.Tab.0.right" timestamp="1583694056650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
-    <state width="1445" height="185" key="GridCell.Tab.1.bottom" timestamp="1583679734668">
+    <state width="1493" height="138" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583694056650" />
+    <state width="1445" height="259" key="GridCell.Tab.1.bottom" timestamp="1583693945577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583679734668" />
-    <state width="1445" height="185" key="GridCell.Tab.1.center" timestamp="1583679734652">
+    <state width="1445" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583693945577" />
+    <state width="1445" height="259" key="GridCell.Tab.1.center" timestamp="1583693945576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
-    <state width="1445" height="185" key="GridCell.Tab.1.left" timestamp="1583679734652">
+    <state width="1445" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583693945576" />
+    <state width="1445" height="259" key="GridCell.Tab.1.left" timestamp="1583693945576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
-    <state width="1445" height="185" key="GridCell.Tab.1.right" timestamp="1583679734652">
+    <state width="1445" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583693945576" />
+    <state width="1445" height="259" key="GridCell.Tab.1.right" timestamp="1583693945577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1445" height="185" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583679734652" />
+    <state width="1445" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583693945577" />
     <state x="590" y="51" key="Maven.ArtifactSearchDialog" timestamp="1583670751170">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -502,6 +525,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583447035596" />
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583681091899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1583681091899" />
     <state x="209" y="114" key="new project wizard" timestamp="1583665923526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

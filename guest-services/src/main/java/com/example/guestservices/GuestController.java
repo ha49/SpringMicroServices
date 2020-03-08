@@ -64,6 +64,7 @@ public class GuestController {
   ResponseEntity<Guest> replaceGuest(@RequestBody Guest newGuest, @PathVariable Long id) {
     return repository.findById(id)
             .map(guest -> {
+
               guest.setFirstName(newGuest.getFirstName());
               guest.setLastName(newGuest.getLastName());
               repository.save(guest);
